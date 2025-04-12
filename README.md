@@ -1,2 +1,6 @@
-# Titanic-Survival-Prediction-KNN
-Predicting passenger survival on the Titanic using the K-Nearest Neighbors (KNN) algorithm. This project covers data cleaning, feature engineering, preprocessing, model training, and prediction. Built using Python and scikit-learn, based on the classic Titanic dataset from Kaggle.
+## Features
+- 🚀 Data cleaning (handling missing values, encoding categorical data)
+- 🛠️ Feature engineering (e.g., combining family size, title extraction)
+- ⚙️ Model building using KNN
+- 📊 Model evaluation with confusion matrix and classification report
+- 📁 CSV submission file generation
